@@ -22,8 +22,6 @@ spring:
     enabled: true
   application:
     name: notification-svc
-  config:
-    import: configserver:http://localhost:8085
  
 
 
